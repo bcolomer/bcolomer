@@ -18,7 +18,9 @@
 
  ##
 
-- 📫 How to reach me: barbaracolomer@gmail.com    
+- 📫 How to reach me: barbaracolomer@gmail.com
+- <a href="https://www.freepik.es/foto-gratis/paisaje-submarino_43464718.htm#query=coral&position=29&from_view=search&track=sph&uuid=e940d419-25bc-44d3-b5f2-aa47236142d4"
+                      target="_blank">Freepik</a>
 <a href="https//www.linkedin.com/in/barbara-colomer-2734aa36" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 
 
