@@ -32,5 +32,9 @@
 </a>
 
 ##
+<br></br>
 
-https://komarev.com/ghpvc/?username=bcolomer&color=ff69b4
+
+![](https://komarev.com/ghpvc/?username=bcolomer&color=ff69b4)
+
+
