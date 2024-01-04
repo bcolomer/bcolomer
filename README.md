@@ -1,6 +1,6 @@
 ### Hi there  👋👋 I´m Barbara
 
-- 🌱 I’m currently learning Web development in CPIFP Alan Turing, Malaga
+- 🌱 I’m a web developer in development ...
 
 ##
 
@@ -8,7 +8,7 @@
 
 ##
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning in CPIFP Alan Turing, Malaga:
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -33,3 +33,4 @@
 
 ##
 
+https://komarev.com/ghpvc/?username=bcolomer&color=ff69b4
