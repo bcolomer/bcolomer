@@ -32,14 +32,11 @@
 </a>
 
 ##
-<br></br>
 
-
-![](https://komarev.com/ghpvc/?username=bcolomer&color=ff69b4)
 Mi perfil:
-<img src="https://img.shields.io/github/watchers/bcolomer/bcolomer.svg">
+<img src="https://img.shields.io/github/watchers/bcolomer/bcolomer.svg"> <br>
 Programacion con Java:
-<img src="https://img.shields.io/github/watchers/bcolomer/programacion_con_java.svg"> 
+<img src="https://img.shields.io/github/watchers/bcolomer/programacion_con_java.svg"> <br>
 ProyectoBuceo:
 <img src="https://img.shields.io/github/watchers/bcolomer/ProyectoBuceo.svg"> 
 
