@@ -32,7 +32,7 @@
 </a>
 
 ##
-
+![](https://komarev.com/ghpvc/?username=bcolomer&color=ff69b4)
 Mi perfil:
 <img src="https://img.shields.io/github/watchers/bcolomer/bcolomer.svg"> <br>
 Programacion con Java:
